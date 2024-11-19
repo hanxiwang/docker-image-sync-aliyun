@@ -1,1 +1,11 @@
-aaa
+{
+    "auth": {
+        "registry.cn-jssz1.ctyun.cn": {
+            "username": "韩汐sir",
+            "password": "DOCKERHUB_PASSWD"
+        }
+    },
+    "images": {
+          "prom/prometheus:v2.47.2": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/songjie/prometheus:v2.47.2" 
+    }
+}
