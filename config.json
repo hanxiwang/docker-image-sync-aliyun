@@ -6,6 +6,6 @@
          }
     },
     "images": {
-          "--platform linux/amd64 docker.m.daocloud.io/apache/doris:fe-2.1.9": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/songjie/doris:fe-2.1.9"
+          "docker.m.daocloud.io/apache/doris:fe-2.1.9": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/doris:fe-2.1.9"
     }
 }
