@@ -3,7 +3,7 @@
         "registry.cn-jssz1.ctyun.cn": {
             "username": "韩汐sir",
             "password": "DOCKERHUB_PASSWD"
-        }
+         }
     },
     "images": {
           "apache/doris:fe-2.1.9": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/songjie/doris:fe-2.1.9"
